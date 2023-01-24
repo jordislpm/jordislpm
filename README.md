@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jordislpm&label=Profile%20views&color=0e75b6&style=flat" alt="jordislpm" /> </p>
 
-- 🌱 I’m currently learning **Javascript, React, Next.js and TypeScript**
+- 🌱 I’m currently learning **Javascript, React, Next.js, Node.js, postgreSQL and TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://jordis.dev/](https://jordis.dev/)
 
