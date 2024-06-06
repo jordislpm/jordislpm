@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript, React, Next.js, Node.js, postgreSQL and TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://jordis.dev/](https://jordis.dev/)
+- 👨‍💻 All of my projects are available at [https://jordis.dev/](https://jordisdev.com)
 
 - 💬 Ask me about **React**
 
